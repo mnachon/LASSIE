@@ -1,2 +1,1 @@
-# LASSIE
-Legged Autonomous Surface Science In Analogue Environments (LASSIE): Making Every Robotic Step Count in Planetary Exploration
+This https://github.com/mnachon/LASSIE repository is for Data and Materials for the manuscript "Legged Autonomous Surface Science In Analogue Environments (LASSIE): Making Every Robotic Step Count in Planetary Exploration"
